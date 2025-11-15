@@ -190,7 +190,3 @@ See the [LICENSE](./LICENSE) file for more details.
   - ESLint
 - Any external API providers powering the market data
 
----
-
-> _Pro tip_: Add screenshots or animated GIFs of your dashboard under a `## Screenshots` section to make the GitHub page even more visually striking.
-```
