@@ -1,14 +1,6 @@
-```markdown
-# 🚀 Crypto & Marketplace Analyzer
 
-[![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)](#)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](./LICENSE)
-[![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](#)
-[![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)](#)
+🚀 Crypto & Marketplace Analyzer
 
-> A sleek, data‑driven dashboard for analyzing cryptocurrency markets and marketplace trends in real time.
-
----
 
 ## ✨ Key Features
 
@@ -18,7 +10,7 @@
 
 - **Rich Visual Analytics**
   - Interactive charts powered by **React Google Charts**.
-  - Support for multiple timeframes (e.g. 24h, 7d, 30d\*).
+  - Support for multiple timeframes (e.g. 24h, 7d, 30d*).
   - Tooltips, legends, and responsive layouts for clear visual insights.
 
 - **Modern Single‑Page App**
@@ -29,19 +21,19 @@
   - Optimized for desktop, tablet, and mobile.
   - Clean, modern layout ideal for dashboards and analytics.
 
-> \* Depends on your configured data source and API.
+> *Depends on your configured data source and API.*
 
 ---
 
 ## 🧩 Tech Stack
 
-| Layer         | Technology                                  |
-|---------------|----------------------------------------------|
-| Frontend UI   | React, JSX                                  |
-| Routing       | React Router DOM                            |
-| Charts        | React Google Charts                         |
-| Tooling       | Vite, ESLint                                |
-| Language      | JavaScript / TypeScript (optional)          |
+| Layer        | Technology                         |
+|-------------|-------------------------------------|
+| Frontend UI | React, JSX                         |
+| Routing     | React Router DOM                   |
+| Charts      | React Google Charts                |
+| Tooling     | Vite, ESLint                       |
+| Language    | JavaScript / TypeScript (optional) |
 
 ---
 
@@ -57,7 +49,7 @@ Check your versions:
 ```bash
 node -v
 npm -v
-```
+
 
 ### 2. Installation
 
@@ -103,13 +95,13 @@ npm run build
 
 # Preview production build locally
 npm run preview
-```
+'''
 
----
+
 
 ## 🗂 Project Structure
 
-```text
+text
 .
 ├─ src
 │  ├─ components/       # Reusable UI components (charts, tables, cards...)
@@ -123,7 +115,7 @@ npm run preview
 ├─ index.html
 ├─ package.json
 └─ vite.config.js
-```
+
 
 Adjust this to reflect your exact structure.
 
